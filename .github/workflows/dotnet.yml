@@ -84,7 +84,7 @@ jobs:
   
   
   function:
-    environment: DevWorkshop
+    environment: dev2
     runs-on: ubuntu-latest
 
     steps:
